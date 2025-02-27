@@ -29,6 +29,4 @@ A SwiftUI e-commerce app for American football equipment. This app demonstrates 
 ## Technologies Used
 
 - SwiftUI
-- Combine
-- MVVM Architecture
 - JSON Parsing
