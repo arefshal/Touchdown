@@ -11,7 +11,8 @@ A SwiftUI e-commerce app for American football equipment. This app demonstrates 
 
 ## Screenshots
 
-(Screenshots will be added later)
+![CleanShot 2025-02-27 at 03 37 39_33d8f5cd809cb3cf6820fef5f0751f8fe94177b14f3ce3e13d8e92acd2937566](https://github.com/user-attachments/assets/4f0e1fcd-e7bf-4ab2-a20b-49b4395ba46b)
+
 
 ## Requirements
 
