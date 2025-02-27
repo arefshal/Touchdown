@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Touchdown}",
+            "name": "Debug Touchdown",
+            "program": "${workspaceFolder:Touchdown}/.build/debug/Touchdown",
+            "preLaunchTask": "swift: Build Debug Touchdown"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Touchdown}",
+            "name": "Release Touchdown",
+            "program": "${workspaceFolder:Touchdown}/.build/release/Touchdown",
+            "preLaunchTask": "swift: Build Release Touchdown"
+        }
+    ]
+}
